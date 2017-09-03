@@ -6,7 +6,8 @@
 	url = https://github.com/openembedded/meta-openembedded.git
 [submodule "layers/meta-raspberrypi"]
 	path = layers/meta-raspberrypi
-	url = https://git.yoctoproject.org/git/meta-raspberrypi
+	url = https://github.com/thpham/meta-raspberrypi.git
+	branch = navio2-rpi3
 [submodule "layers/meta-resin"]
 	path = layers/meta-resin
 	url = https://github.com/resin-os/meta-resin.git
